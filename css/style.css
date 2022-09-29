@@ -1,0 +1,20 @@
+.honolulu{
+    width: 600px;
+    height: 500px;
+   
+}
+.footer{
+    background-color: darkslategrey;    
+    padding:1.2rem;
+    
+       
+  }
+  .lista{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    list-style-type: none; 
+    
+  }
